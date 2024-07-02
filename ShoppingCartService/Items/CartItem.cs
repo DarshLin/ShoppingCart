@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace ShoppingCart
+namespace ShoppingCart.Items
 {
     /// <summary>
     /// The item

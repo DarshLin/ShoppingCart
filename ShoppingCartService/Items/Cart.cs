@@ -1,4 +1,4 @@
-﻿namespace ShoppingCart
+﻿namespace ShoppingCart.Items
 {
     /// <summary>
     /// The Cart
@@ -18,7 +18,8 @@
         /// Add an item
         /// </summary>
         /// <param name="item"></param>
-        public void AddItem(CartItem item){ 
+        public void AddItem(CartItem item)
+        {
             _items.Add(item);
         }
 

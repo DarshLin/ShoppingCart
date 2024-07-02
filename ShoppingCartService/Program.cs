@@ -1,4 +1,4 @@
-using ShoppingCart;
+using ShoppingCart.Items;
 using ShoppingCart.Services;
 
 var builder = WebApplication.CreateBuilder(args);

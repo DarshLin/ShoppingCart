@@ -1,4 +1,6 @@
-﻿namespace ShoppingCart.Services
+﻿using ShoppingCart.Items;
+
+namespace ShoppingCart.Services
 {
     /// <summary>
     /// The cart service interface
